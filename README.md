@@ -73,7 +73,7 @@ detectMask_image--> This is created for the image detection function. So that cl
 
 
 
-# MADE BY SUBHAJIT PATI
+# MADE BY Rahul Debnath
 "# Face_Mask_Detection" 
 "# Face_Mask_Detection" 
 "# Face_Mask_Detection" 
